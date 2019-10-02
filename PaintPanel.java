@@ -10,7 +10,7 @@ import java.util.Observable;
 import java.util.Observer;
 
 
-/**@author groupXXX
+/**
  * This class uses all the package classes to draw, customize, repaint and handle the mouse events. 
  * This class is the canvas and the heart of the program as it contains all the crucial components of the program.
  * IS-A: inheritance 	(Extends StackPane and implements Observer, EventHandler<MouseEvent>).

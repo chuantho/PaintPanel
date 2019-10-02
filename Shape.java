@@ -3,7 +3,7 @@ package ca.utoronto.utm.paint;
 import javafx.scene.paint.Color;
 import javafx.scene.paint.Paint;
 
-/**@author groupXXX
+/**
  * This class creates shape objects that will be used to draw the user's requested shape.
  * This class contain all the main methods that will be used to draw and customize the user requested shape. 
  * IS-A: inheritance 	(no inheritance is needed for this class however this class implements the ShapeStrategy interface).

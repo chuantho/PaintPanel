@@ -1,7 +1,6 @@
 package ca.utoronto.utm.paint;
 
 /**
- * @author groupXXX
  * This class is used to create the panel on the canvas which holds all the possible shapes, the fill/dotted mode and the current shape
  * label. It is the bread and butter for what mode the user chooses to draw with.
  */

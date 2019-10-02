@@ -2,7 +2,7 @@ package ca.utoronto.utm.paint;
 
 /**
  * 
- * @author groupXXX
+ * @author 
  * IS-A Shape 
  * This class extends Shape
  * This class creates a point that is used by every shape to draw itself in the respective class.

@@ -1,7 +1,6 @@
 package ca.utoronto.utm.paint;
 
 /**
- * @author groupXXX (Gagandeep Bhangal made this) 
  * RESPONDS-TO View
  * This class is used to create a pop up panel that is used to set the colour of the shapes or the background colour of the paint panel.
  */

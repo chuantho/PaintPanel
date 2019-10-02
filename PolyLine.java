@@ -4,7 +4,6 @@ import javafx.scene.canvas.GraphicsContext;
 
 /**
  * 
- * @author groupXXX
  * 
  * PolyLine is a Shape
  * 

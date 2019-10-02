@@ -1,7 +1,6 @@
 package ca.utoronto.utm.paint;
 
 /**
- * @author groupXXX 
  * This class is used to create a Squiggle and draw it
  */
 

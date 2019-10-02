@@ -1,7 +1,6 @@
 package ca.utoronto.utm.paint;
 
 /**
- * @author groupXXX
  * 
  * A Square is Shape.
  * This shape class extends shape and implements the interface command and ShapeStrategy

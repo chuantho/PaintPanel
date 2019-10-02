@@ -5,7 +5,6 @@ import java.util.Observable;
 
 /**
  * 
- * @author groupXXX
  * 
  * The class extends Observable that notifies all the observers with changes
  * that occour to the shape objects that are being stored in the Shape Class

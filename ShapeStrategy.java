@@ -2,7 +2,6 @@ package ca.utoronto.utm.paint;
 
 /**
  * ShapeStrategy interface
- * @author groupXXX
  *
  */
 public interface ShapeStrategy {
